@@ -1,0 +1,13 @@
+/home/jv_costa/Cerise/Manipulator/arduinobot_ws/build/arduinobot_firmware/CMakeFiles/uninstall.dir
+/home/jv_costa/Cerise/Manipulator/arduinobot_ws/build/arduinobot_firmware/CMakeFiles/arduinobot_firmware_uninstall.dir
+/home/jv_costa/Cerise/Manipulator/arduinobot_ws/build/arduinobot_firmware/CMakeFiles/ament_cmake_python_copy_arduinobot_firmware.dir
+/home/jv_costa/Cerise/Manipulator/arduinobot_ws/build/arduinobot_firmware/CMakeFiles/ament_cmake_python_build_arduinobot_firmware_egg.dir
+/home/jv_costa/Cerise/Manipulator/arduinobot_ws/build/arduinobot_firmware/CMakeFiles/simple_serial_receiver.dir
+/home/jv_costa/Cerise/Manipulator/arduinobot_ws/build/arduinobot_firmware/CMakeFiles/simple_serial_transmitter.dir
+/home/jv_costa/Cerise/Manipulator/arduinobot_ws/build/arduinobot_firmware/CMakeFiles/test.dir
+/home/jv_costa/Cerise/Manipulator/arduinobot_ws/build/arduinobot_firmware/CMakeFiles/edit_cache.dir
+/home/jv_costa/Cerise/Manipulator/arduinobot_ws/build/arduinobot_firmware/CMakeFiles/rebuild_cache.dir
+/home/jv_costa/Cerise/Manipulator/arduinobot_ws/build/arduinobot_firmware/CMakeFiles/list_install_components.dir
+/home/jv_costa/Cerise/Manipulator/arduinobot_ws/build/arduinobot_firmware/CMakeFiles/install.dir
+/home/jv_costa/Cerise/Manipulator/arduinobot_ws/build/arduinobot_firmware/CMakeFiles/install/local.dir
+/home/jv_costa/Cerise/Manipulator/arduinobot_ws/build/arduinobot_firmware/CMakeFiles/install/strip.dir
