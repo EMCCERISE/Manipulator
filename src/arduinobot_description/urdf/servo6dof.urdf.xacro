@@ -257,7 +257,7 @@
 		<child link="terceiro_elo"/>
 		<axis xyz="1 0 0"/>
 		<origin rpy="0 0 0" xyz="0.06 0 0.63"/>
-		<limit lower="-${PI/2}" upper="${PI/2}" effort="${effort}" velocity="${velocity}"/>
+		<limit lower="-${PI/4}" upper="${PI/2}" effort="${effort}" velocity="${velocity}"/>
 	</joint>
 
 	<joint name="joint_4" type="revolute">

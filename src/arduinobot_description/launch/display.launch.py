@@ -13,7 +13,7 @@ def generate_launch_description():
     arduinobot_description_dir = get_package_share_directory('arduinobot_description')
 
     model_arg = DeclareLaunchArgument(name='model', default_value=os.path.join(
-                                        arduinobot_description_dir, 'urdf', 'arduinobot.urdf.xacro'
+                                        arduinobot_description_dir, 'urdf', 'servo6dof.urdf.xacro'
                                         ),
                                       description='Absolute path to robot urdf file')
 
